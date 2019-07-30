@@ -6,8 +6,18 @@ const GameSchema = new Schema( {
     aggregated_rating: Number,
     first_release_date: Date,
     franchise: String,
-    game_engines: [Number],    
-    involved_companies: [Number],    
+    game_engines: [
+        {
+            type: Schema.Types.ObjectId,
+            ref: 'Engine'
+        }
+    ],    
+    involved_companies: [
+        {
+            type: Schema.Types.ObjectId,
+            ref: 'Company'
+        }
+    ],    
     name: String,
     popularity: Number,
     storyline: String,
