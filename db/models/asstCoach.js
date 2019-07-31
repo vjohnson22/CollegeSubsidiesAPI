@@ -5,8 +5,8 @@ const AsstCoachSchema = new Schema ({
     rank: Number,
     school: String,
     coach: String,
-    totalPay: Number,
-    AsstPayTotal: Number
+    totalPay: String,
+    AsstPayTotal: String
 })
 
 module.exports = mongoose.model('AsstCoach', AsstCoachSchema)

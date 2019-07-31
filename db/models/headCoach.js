@@ -5,9 +5,9 @@ const HeadCoachSchema = new Schema ({
     rank: Number,
     school: String,
     coach: String,
-    totalPay: Number,
-    AsstPayTotal: Number,
-    schoolBuyout: Number
+    totalPay: String,
+    asstPayTotal: String,
+    schoolBuyout: String
 })
 
 module.exports = mongoose.model('HeadCoach', HeadCoachSchema)

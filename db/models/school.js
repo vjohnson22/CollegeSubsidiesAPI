@@ -5,28 +5,19 @@ const Schema = mongoose.Schema
 const SchoolSchema = new Schema( {
     institution: String,
     conference: String,
-    percentFromSubsidies: Number,
-    subsidies: Number,
-    athleticsRevenue: Number,
+    percentFromSubsidies: String,
+    subsidies: String,
+    athleticsRevenue: String,
     headCoach: {
         type: Schema.Types.ObjectId,
         ref: "HeadCoach"
     },
-    headCoachPay: {
-        type: Schema.Types.coach,
-        ref: "HeadCoach"        
-    },
     asstCoachs:[
      {
-        type: Schema.Types.coach,
+        type: Schema.Types.ObjectId,
         ref: "AsstCoach"
     }
-],
-    asstCoachPay: {
-        type: Schema.Types.asstPayTotal,
-        ref: "AsstCoach"
-    }
- 
+    ]
 })
 
 module.exports = mongoose.model('School', SchoolSchema)
