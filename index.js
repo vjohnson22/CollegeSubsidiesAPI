@@ -6,6 +6,6 @@ const parser = require('body-parser')
 app.use(parser.json())
 
 // add routes below
-app.use('/games',require('./routes/games'))
+app.use('/schools',require('./routes/schools'))
 
 app.listen(4000, () => console.log("listening on port 4000"))

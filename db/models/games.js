@@ -1,6 +1,9 @@
 const mongoose = require('../connection')
 const Schema = mongoose.Schema
 
+const Platform = new Schema ({
+    name: String
+})
 const GameSchema = new Schema( {
     age_ratings:String,
     aggregated_rating: Number,
@@ -17,7 +20,8 @@ const GameSchema = new Schema( {
             type: Schema.Types.ObjectId,
             ref: 'Company'
         }
-    ],    
+    ],
+    platforms: [Platform],    
     name: String,
     popularity: Number,
     storyline: String,

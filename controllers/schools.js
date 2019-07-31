@@ -1,4 +1,4 @@
-const Game = require('../db/models')
+const School = require('../db/models/school')
 
 module.exports = {
     index: (req,res) => {
