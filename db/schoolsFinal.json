@@ -1,0 +1,1409 @@
+[
+  {
+    "Institution": "Alabama",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "3.90%",
+    "Subsidies": "$5,997,100",
+    "Athletics revenue": "$153,234,273"
+  },
+  {
+    "Institution": "Alabama at Birmingham",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "64.50%",
+    "Subsidies": "$20,345,607",
+    "Athletics revenue": "$31,549,517"
+  },
+  {
+    "Institution": "Alabama State University_ Alabama",
+    "Conference": "Southwestern Athletic Conference",
+    "% of revenue from subsidies": "76.40%",
+    "Subsidies": "$10,750,355",
+    "Athletics revenue": "$14,070,309"
+  },
+  {
+    "Institution": "Alcorn State University_ Mississippi",
+    "Conference": "Southwestern Athletic Conference",
+    "% of revenue from subsidies": "84.10%",
+    "Subsidies": "$5,329,700",
+    "Athletics revenue": "$6,340,123"
+  },
+  {
+    "Institution": "Appalachian State",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "53.00%",
+    "Subsidies": "$10,283,987",
+    "Athletics revenue": "$19,414,754"
+  },
+  {
+    "Institution": "Arizona",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "7.90%",
+    "Subsidies": "$7,901,134",
+    "Athletics revenue": "$99,911,034"
+  },
+  {
+    "Institution": "Arizona State",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "13.50%",
+    "Subsidies": "$10,073,205",
+    "Athletics revenue": "$74,729,269"
+  },
+  {
+    "Institution": "Arkansas",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "2.00%",
+    "Subsidies": "$1,936,405",
+    "Athletics revenue": "$96,793,972"
+  },
+  {
+    "Institution": "Arkansas State",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "52.80%",
+    "Subsidies": "$10,642,341",
+    "Athletics revenue": "$20,151,793"
+  },
+  {
+    "Institution": "Auburn",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "3.90%",
+    "Subsidies": "$4,384,800",
+    "Athletics revenue": "$113,716,004"
+  },
+  {
+    "Institution": "Austin Peay State University_ Tennessee",
+    "Conference": "Ohio Valley Conference",
+    "% of revenue from subsidies": "65.80%",
+    "Subsidies": "$7,954,748",
+    "Athletics revenue": "$12,091,296"
+  },
+  {
+    "Institution": "Ball State",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "74.30%",
+    "Subsidies": "$17,397,330",
+    "Athletics revenue": "$23,424,359"
+  },
+  {
+    "Institution": "Binghamton University_ New York",
+    "Conference": "America East Conference",
+    "% of revenue from subsidies": "78.80%",
+    "Subsidies": "$12,269,494",
+    "Athletics revenue": "$15,566,967"
+  },
+  {
+    "Institution": "Boise State",
+    "Conference": "Mountain West Conference",
+    "% of revenue from subsidies": "25.80%",
+    "Subsidies": "$11,799,384",
+    "Athletics revenue": "$45,706,336"
+  },
+  {
+    "Institution": "Bowling Green",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "62.70%",
+    "Subsidies": "$14,722,441",
+    "Athletics revenue": "$23,469,664"
+  },
+  {
+    "Institution": "California",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "5.50%",
+    "Subsidies": "$4,982,173",
+    "Athletics revenue": "$90,262,142"
+  },
+  {
+    "Institution": "California State University at Fresno_ California",
+    "Conference": "Mountain West Conference",
+    "% of revenue from subsidies": "36.40%",
+    "Subsidies": "$13,101,250",
+    "Athletics revenue": "$36,038,183"
+  },
+  {
+    "Institution": "California State University at Long Beach_ California",
+    "Conference": "Big West Conference",
+    "% of revenue from subsidies": "63.60%",
+    "Subsidies": "$10,627,432",
+    "Athletics revenue": "$16,703,611"
+  },
+  {
+    "Institution": "Central Connecticut State University_ Connecticut",
+    "Conference": "Northeast Conference",
+    "% of revenue from subsidies": "88.00%",
+    "Subsidies": "$12,959,383",
+    "Athletics revenue": "$14,731,018"
+  },
+  {
+    "Institution": "Central Michigan",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "73.80%",
+    "Subsidies": "$21,605,613",
+    "Athletics revenue": "$29,281,777"
+  },
+  {
+    "Institution": "Cincinnati",
+    "Conference": "American Athletic Conference",
+    "% of revenue from subsidies": "45.90%",
+    "Subsidies": "$27,118,373",
+    "Athletics revenue": "$59,100,453"
+  },
+  {
+    "Institution": "Clemson",
+    "Conference": "Atlantic Coast Conference",
+    "% of revenue from subsidies": "5.90%",
+    "Subsidies": "$4,375,745",
+    "Athletics revenue": "$74,793,322"
+  },
+  {
+    "Institution": "Cleveland State University_ Ohio",
+    "Conference": "Horizon League",
+    "% of revenue from subsidies": "84.10%",
+    "Subsidies": "$9,627,983",
+    "Athletics revenue": "$11,446,911"
+  },
+  {
+    "Institution": "College of Charleston_ South Carolina",
+    "Conference": "Colonial Athletic Association",
+    "% of revenue from subsidies": "75.40%",
+    "Subsidies": "$13,153,721",
+    "Athletics revenue": "$17,440,104"
+  },
+  {
+    "Institution": "College of William & Mary_ Virginia",
+    "Conference": "Colonial Athletic Association",
+    "% of revenue from subsidies": "53.60%",
+    "Subsidies": "$12,691,327",
+    "Athletics revenue": "$23,664,928"
+  },
+  {
+    "Institution": "Colorado",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "19.00%",
+    "Subsidies": "$12,209,473",
+    "Athletics revenue": "$64,226,758"
+  },
+  {
+    "Institution": "Colorado State",
+    "Conference": "Mountain West Conference",
+    "% of revenue from subsidies": "51.70%",
+    "Subsidies": "$20,029,364",
+    "Athletics revenue": "$38,739,665"
+  },
+  {
+    "Institution": "Connecticut",
+    "Conference": "American Athletic Conference",
+    "% of revenue from subsidies": "38.00%",
+    "Subsidies": "$27,203,031",
+    "Athletics revenue": "$71,519,433"
+  },
+  {
+    "Institution": "Coppin State University_ Maryland",
+    "Conference": "Mid-Eastern Athletic Conference",
+    "% of revenue from subsidies": "74.70%",
+    "Subsidies": "$2,467,870",
+    "Athletics revenue": "$3,304,284"
+  },
+  {
+    "Institution": "East Carolina",
+    "Conference": "American Athletic Conference",
+    "% of revenue from subsidies": "42.80%",
+    "Subsidies": "$15,680,447",
+    "Athletics revenue": "$36,598,782"
+  },
+  {
+    "Institution": "East Tennessee State University_ Tennessee",
+    "Conference": "Southern Conference",
+    "% of revenue from subsidies": "82.30%",
+    "Subsidies": "$14,071,113",
+    "Athletics revenue": "$17,088,793"
+  },
+  {
+    "Institution": "Eastern Illinois University_ Illinois",
+    "Conference": "Ohio Valley Conference",
+    "% of revenue from subsidies": "71.70%",
+    "Subsidies": "$9,524,251",
+    "Athletics revenue": "$13,275,858"
+  },
+  {
+    "Institution": "Eastern Kentucky University_ Kentucky",
+    "Conference": "Ohio Valley Conference",
+    "% of revenue from subsidies": "80.00%",
+    "Subsidies": "$10,432,816",
+    "Athletics revenue": "$13,033,265"
+  },
+  {
+    "Institution": "Eastern Michigan",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "83.40%",
+    "Subsidies": "$25,083,708",
+    "Athletics revenue": "$30,081,523"
+  },
+  {
+    "Institution": "Eastern Washington University_ Washington",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "71.20%",
+    "Subsidies": "$9,153,007",
+    "Athletics revenue": "$12,858,386"
+  },
+  {
+    "Institution": "Florida",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "3.50%",
+    "Subsidies": "$4,308,442",
+    "Athletics revenue": "$124,611,305"
+  },
+  {
+    "Institution": "Florida Atlantic",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "67.20%",
+    "Subsidies": "$16,358,377",
+    "Athletics revenue": "$24,352,818"
+  },
+  {
+    "Institution": "Florida Gulf Coast University_ Florida",
+    "Conference": "Atlantic Sun Conference",
+    "% of revenue from subsidies": "68.50%",
+    "Subsidies": "$9,891,551",
+    "Athletics revenue": "$14,434,002"
+  },
+  {
+    "Institution": "Florida International",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "80.20%",
+    "Subsidies": "$22,540,365",
+    "Athletics revenue": "$28,104,062"
+  },
+  {
+    "Institution": "Florida State",
+    "Conference": "Atlantic Coast Conference",
+    "% of revenue from subsidies": "7.60%",
+    "Subsidies": "$7,980,366",
+    "Athletics revenue": "$104,774,474"
+  },
+  {
+    "Institution": "George Mason University_ Virginia",
+    "Conference": "Atlantic 10 Conference",
+    "% of revenue from subsidies": "81.90%",
+    "Subsidies": "$17,207,352",
+    "Athletics revenue": "$21,014,697"
+  },
+  {
+    "Institution": "Georgia",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "3.20%",
+    "Subsidies": "$3,274,712",
+    "Athletics revenue": "$103,495,587"
+  },
+  {
+    "Institution": "Georgia Southern",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "71.60%",
+    "Subsidies": "$13,550,186",
+    "Athletics revenue": "$18,929,350"
+  },
+  {
+    "Institution": "Georgia State",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "76.40%",
+    "Subsidies": "$20,692,717",
+    "Athletics revenue": "$27,093,316"
+  },
+  {
+    "Institution": "Georgia Tech",
+    "Conference": "Atlantic Coast Conference",
+    "% of revenue from subsidies": "10.40%",
+    "Subsidies": "$7,107,777",
+    "Athletics revenue": "$68,469,538"
+  },
+  {
+    "Institution": "Grambling State University_ Louisiana",
+    "Conference": "Southwestern Athletic Conference",
+    "% of revenue from subsidies": "54.20%",
+    "Subsidies": "$2,920,597",
+    "Athletics revenue": "$5,389,368"
+  },
+  {
+    "Institution": "Houston",
+    "Conference": "American Athletic Conference",
+    "% of revenue from subsidies": "53.90%",
+    "Subsidies": "$21,744,121",
+    "Athletics revenue": "$40,310,724"
+  },
+  {
+    "Institution": "Idaho State University_ Idaho",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "59.80%",
+    "Subsidies": "$7,476,288",
+    "Athletics revenue": "$12,503,225"
+  },
+  {
+    "Institution": "Illinois",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "4.90%",
+    "Subsidies": "$3,927,372",
+    "Athletics revenue": "$80,848,569"
+  },
+  {
+    "Institution": "Illinois State University_ Illinois",
+    "Conference": "Missouri Valley Conference",
+    "% of revenue from subsidies": "70.00%",
+    "Subsidies": "$15,112,785",
+    "Athletics revenue": "$21,587,420"
+  },
+  {
+    "Institution": "Indiana",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "3.60%",
+    "Subsidies": "$3,008,362",
+    "Athletics revenue": "$84,668,779"
+  },
+  {
+    "Institution": "Indiana State University_ Indiana",
+    "Conference": "Missouri Valley Conference",
+    "% of revenue from subsidies": "72.80%",
+    "Subsidies": "$10,075,797",
+    "Athletics revenue": "$13,847,014"
+  },
+  {
+    "Institution": "Indiana University-Purdue University at Fort Wayne_ Indiana",
+    "Conference": "The Summit League",
+    "% of revenue from subsidies": "73.40%",
+    "Subsidies": "$5,428,905",
+    "Athletics revenue": "$7,393,037"
+  },
+  {
+    "Institution": "Indiana University-Purdue University at Indianapolis_ Indiana",
+    "Conference": "The Summit League",
+    "% of revenue from subsidies": "87.80%",
+    "Subsidies": "$7,184,587",
+    "Athletics revenue": "$8,179,405"
+  },
+  {
+    "Institution": "Iowa",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "0.60%",
+    "Subsidies": "$683,917",
+    "Athletics revenue": "$105,958,954"
+  },
+  {
+    "Institution": "Iowa State",
+    "Conference": "Big 12 Conference",
+    "% of revenue from subsidies": "2.90%",
+    "Subsidies": "$1,957,396",
+    "Athletics revenue": "$68,170,381"
+  },
+  {
+    "Institution": "James Madison University_ Virginia",
+    "Conference": "Colonial Athletic Association",
+    "% of revenue from subsidies": "81.60%",
+    "Subsidies": "$35,725,049",
+    "Athletics revenue": "$43,767,486"
+  },
+  {
+    "Institution": "Kansas",
+    "Conference": "Big 12 Conference",
+    "% of revenue from subsidies": "2.60%",
+    "Subsidies": "$2,564,374",
+    "Athletics revenue": "$97,681,066"
+  },
+  {
+    "Institution": "Kennesaw State University_ Georgia",
+    "Conference": "Atlantic Sun Conference",
+    "% of revenue from subsidies": "85.10%",
+    "Subsidies": "$14,907,125",
+    "Athletics revenue": "$17,516,033"
+  },
+  {
+    "Institution": "Kent State",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "76.40%",
+    "Subsidies": "$19,039,679",
+    "Athletics revenue": "$24,932,694"
+  },
+  {
+    "Institution": "Kentucky",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "0.90%",
+    "Subsidies": "$861,548",
+    "Athletics revenue": "$96,685,489"
+  },
+  {
+    "Institution": "Lamar University_ Texas",
+    "Conference": "Southland Conference",
+    "% of revenue from subsidies": "77.00%",
+    "Subsidies": "$12,427,089",
+    "Athletics revenue": "$16,147,857"
+  },
+  {
+    "Institution": "Longwood University_ Virginia",
+    "Conference": "Big South Conference",
+    "% of revenue from subsidies": "86.10%",
+    "Subsidies": "$8,416,143",
+    "Athletics revenue": "$9,774,504"
+  },
+  {
+    "Institution": "Louisiana Tech",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "50.10%",
+    "Subsidies": "$9,651,372",
+    "Athletics revenue": "$19,277,701"
+  },
+  {
+    "Institution": "Louisiana-Lafayette",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "26.50%",
+    "Subsidies": "$5,649,393",
+    "Athletics revenue": "$21,297,114"
+  },
+  {
+    "Institution": "Louisville",
+    "Conference": "Atlantic Coast Conference",
+    "% of revenue from subsidies": "8.80%",
+    "Subsidies": "$7,768,599",
+    "Athletics revenue": "$88,745,348"
+  },
+  {
+    "Institution": "LSU",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "0.00%",
+    "Subsidies": "$0",
+    "Athletics revenue": "$133,679,256"
+  },
+  {
+    "Institution": "Marshall",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "49.00%",
+    "Subsidies": "$14,056,395",
+    "Athletics revenue": "$28,707,091"
+  },
+  {
+    "Institution": "Maryland",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "24.70%",
+    "Subsidies": "$18,121,113",
+    "Athletics revenue": "$73,434,869"
+  },
+  {
+    "Institution": "McNeese State University_ Louisiana",
+    "Conference": "Southland Conference",
+    "% of revenue from subsidies": "47.00%",
+    "Subsidies": "$5,130,197",
+    "Athletics revenue": "$10,926,299"
+  },
+  {
+    "Institution": "Memphis",
+    "Conference": "American Athletic Conference",
+    "% of revenue from subsidies": "38.50%",
+    "Subsidies": "$19,337,485",
+    "Athletics revenue": "$50,278,503"
+  },
+  {
+    "Institution": "Miami (Ohio)",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "71.80%",
+    "Subsidies": "$21,115,125",
+    "Athletics revenue": "$29,393,128"
+  },
+  {
+    "Institution": "Michigan",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "0.20%",
+    "Subsidies": "$256,316",
+    "Athletics revenue": "$157,899,820"
+  },
+  {
+    "Institution": "Michigan State",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "1.00%",
+    "Subsidies": "$1,094,958",
+    "Athletics revenue": "$104,677,456"
+  },
+  {
+    "Institution": "Middle Tennessee",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "64.70%",
+    "Subsidies": "$19,674,538",
+    "Athletics revenue": "$30,410,530"
+  },
+  {
+    "Institution": "Minnesota",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "6.60%",
+    "Subsidies": "$7,011,066",
+    "Athletics revenue": "$106,176,156"
+  },
+  {
+    "Institution": "Mississippi",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "5.10%",
+    "Subsidies": "$3,886,423",
+    "Athletics revenue": "$75,849,000"
+  },
+  {
+    "Institution": "Mississippi State",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "4.30%",
+    "Subsidies": "$2,650,000",
+    "Athletics revenue": "$62,275,111"
+  },
+  {
+    "Institution": "Mississippi Valley State University_ Mississippi",
+    "Conference": "Southwestern Athletic Conference",
+    "% of revenue from subsidies": "55.00%",
+    "Subsidies": "$2,172,228",
+    "Athletics revenue": "$3,952,319"
+  },
+  {
+    "Institution": "Missouri",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "1.80%",
+    "Subsidies": "$1,515,000",
+    "Athletics revenue": "$83,718,587"
+  },
+  {
+    "Institution": "Missouri State University_ Missouri",
+    "Conference": "Missouri Valley Conference",
+    "% of revenue from subsidies": "59.40%",
+    "Subsidies": "$8,965,530",
+    "Athletics revenue": "$15,105,167"
+  },
+  {
+    "Institution": "Montana State University at Bozeman_ Montana",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "56.20%",
+    "Subsidies": "$10,561,845",
+    "Athletics revenue": "$18,787,426"
+  },
+  {
+    "Institution": "Morehead State University_ Kentucky",
+    "Conference": "Ohio Valley Conference",
+    "% of revenue from subsidies": "86.20%",
+    "Subsidies": "$9,341,671",
+    "Athletics revenue": "$10,833,587"
+  },
+  {
+    "Institution": "Morgan State University_ Maryland",
+    "Conference": "Mid-Eastern Athletic Conference",
+    "% of revenue from subsidies": "83.60%",
+    "Subsidies": "$7,753,009",
+    "Athletics revenue": "$9,275,151"
+  },
+  {
+    "Institution": "Murray State University_ Kentucky",
+    "Conference": "Ohio Valley Conference",
+    "% of revenue from subsidies": "65.30%",
+    "Subsidies": "$11,236,842",
+    "Athletics revenue": "$17,217,807"
+  },
+  {
+    "Institution": "Nebraska",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "0.00%",
+    "Subsidies": "$0",
+    "Athletics revenue": "$94,797,692"
+  },
+  {
+    "Institution": "New Jersey Institute of Technology_ New Jersey",
+    "Conference": "Independent",
+    "% of revenue from subsidies": "90.60%",
+    "Subsidies": "$11,899,220",
+    "Athletics revenue": "$13,136,737"
+  },
+  {
+    "Institution": "New Mexico State",
+    "Conference": "Western Athletic Conference",
+    "% of revenue from subsidies": "69.50%",
+    "Subsidies": "$20,353,201",
+    "Athletics revenue": "$29,287,917"
+  },
+  {
+    "Institution": "Nicholls State University_ Louisiana",
+    "Conference": "Southland Conference",
+    "% of revenue from subsidies": "58.20%",
+    "Subsidies": "$4,718,258",
+    "Athletics revenue": "$8,113,231"
+  },
+  {
+    "Institution": "Norfolk State University_ Virginia",
+    "Conference": "Mid-Eastern Athletic Conference",
+    "% of revenue from subsidies": "79.20%",
+    "Subsidies": "$9,613,812",
+    "Athletics revenue": "$12,134,981"
+  },
+  {
+    "Institution": "North Carolina",
+    "Conference": "Atlantic Coast Conference",
+    "% of revenue from subsidies": "10.80%",
+    "Subsidies": "$9,078,593",
+    "Athletics revenue": "$83,771,913"
+  },
+  {
+    "Institution": "North Carolina Agricultural and Technical State University_ North Carolina",
+    "Conference": "Mid-Eastern Athletic Conference",
+    "% of revenue from subsidies": "73.80%",
+    "Subsidies": "$8,398,737",
+    "Athletics revenue": "$11,383,506"
+  },
+  {
+    "Institution": "North Carolina Central University_ North Carolina",
+    "Conference": "Mid-Eastern Athletic Conference",
+    "% of revenue from subsidies": "72.60%",
+    "Subsidies": "$7,718,865",
+    "Athletics revenue": "$10,629,060"
+  },
+  {
+    "Institution": "North Carolina State",
+    "Conference": "Atlantic Coast Conference",
+    "% of revenue from subsidies": "9.50%",
+    "Subsidies": "$6,708,651",
+    "Athletics revenue": "$70,500,811"
+  },
+  {
+    "Institution": "North Dakota State University_ North Dakota",
+    "Conference": "The Summit League",
+    "% of revenue from subsidies": "38.60%",
+    "Subsidies": "$7,994,050",
+    "Athletics revenue": "$20,712,638"
+  },
+  {
+    "Institution": "North Texas",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "62.60%",
+    "Subsidies": "$19,784,033",
+    "Athletics revenue": "$31,617,094"
+  },
+  {
+    "Institution": "Northern Arizona University_ Arizona",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "78.50%",
+    "Subsidies": "$11,956,387",
+    "Athletics revenue": "$15,235,528"
+  },
+  {
+    "Institution": "Northern Illinois",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "67.90%",
+    "Subsidies": "$18,339,413",
+    "Athletics revenue": "$27,007,053"
+  },
+  {
+    "Institution": "Northern Kentucky University_ Kentucky",
+    "Conference": "Atlantic Sun Conference",
+    "% of revenue from subsidies": "84.60%",
+    "Subsidies": "$10,113,985",
+    "Athletics revenue": "$11,951,518"
+  },
+  {
+    "Institution": "Northwestern State University_ Louisiana",
+    "Conference": "Southland Conference",
+    "% of revenue from subsidies": "63.60%",
+    "Subsidies": "$7,624,437",
+    "Athletics revenue": "$11,996,507"
+  },
+  {
+    "Institution": "Oakland University_ Michigan",
+    "Conference": "Horizon League",
+    "% of revenue from subsidies": "78.50%",
+    "Subsidies": "$9,340,386",
+    "Athletics revenue": "$11,891,893"
+  },
+  {
+    "Institution": "Ohio State",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "0.00%",
+    "Subsidies": "$0",
+    "Athletics revenue": "$145,232,681"
+  },
+  {
+    "Institution": "Ohio",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "66.60%",
+    "Subsidies": "$18,453,771",
+    "Athletics revenue": "$27,720,000"
+  },
+  {
+    "Institution": "Oklahoma",
+    "Conference": "Big 12 Conference",
+    "% of revenue from subsidies": "0.00%",
+    "Subsidies": "$0",
+    "Athletics revenue": "$129,226,692"
+  },
+  {
+    "Institution": "Oklahoma State",
+    "Conference": "Big 12 Conference",
+    "% of revenue from subsidies": "6.40%",
+    "Subsidies": "$7,521,475",
+    "Athletics revenue": "$117,803,302"
+  },
+  {
+    "Institution": "Old Dominion",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "65.10%",
+    "Subsidies": "$26,733,437",
+    "Athletics revenue": "$41,061,440"
+  },
+  {
+    "Institution": "Oregon",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "1.10%",
+    "Subsidies": "$2,155,099",
+    "Athletics revenue": "$196,030,398"
+  },
+  {
+    "Institution": "Oregon State",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "19.40%",
+    "Subsidies": "$12,285,453",
+    "Athletics revenue": "$63,301,794"
+  },
+  {
+    "Institution": "Portland State University_ Oregon",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "74.90%",
+    "Subsidies": "$10,041,697",
+    "Athletics revenue": "$13,402,378"
+  },
+  {
+    "Institution": "Prairie View A&M University_ Texas",
+    "Conference": "Southwestern Athletic Conference",
+    "% of revenue from subsidies": "76.90%",
+    "Subsidies": "$8,272,437",
+    "Athletics revenue": "$10,761,388"
+  },
+  {
+    "Institution": "Purdue",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "0.00%",
+    "Subsidies": "$0",
+    "Athletics revenue": "$71,372,206"
+  },
+  {
+    "Institution": "Radford University_ Virginia",
+    "Conference": "Big South Conference",
+    "% of revenue from subsidies": "85.80%",
+    "Subsidies": "$11,237,598",
+    "Athletics revenue": "$13,100,864"
+  },
+  {
+    "Institution": "Rutgers",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "47.40%",
+    "Subsidies": "$36,340,665",
+    "Athletics revenue": "$76,656,339"
+  },
+  {
+    "Institution": "Sam Houston State University_ Texas",
+    "Conference": "Southland Conference",
+    "% of revenue from subsidies": "71.40%",
+    "Subsidies": "$10,629,147",
+    "Athletics revenue": "$14,892,104"
+  },
+  {
+    "Institution": "San Jose State",
+    "Conference": "Mountain West Conference",
+    "% of revenue from subsidies": "61.60%",
+    "Subsidies": "$18,276,682",
+    "Athletics revenue": "$29,666,940"
+  },
+  {
+    "Institution": "Savannah State University_ Georgia",
+    "Conference": "Mid-Eastern Athletic Conference",
+    "% of revenue from subsidies": "67.00%",
+    "Subsidies": "$4,042,460",
+    "Athletics revenue": "$6,033,864"
+  },
+  {
+    "Institution": "South Carolina",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "5.70%",
+    "Subsidies": "$5,631,976",
+    "Athletics revenue": "$98,619,479"
+  },
+  {
+    "Institution": "South Carolina State University_ South Carolina",
+    "Conference": "Mid-Eastern Athletic Conference",
+    "% of revenue from subsidies": "67.60%",
+    "Subsidies": "$6,635,852",
+    "Athletics revenue": "$9,816,895"
+  },
+  {
+    "Institution": "South Dakota State University_ South Dakota",
+    "Conference": "The Summit League",
+    "% of revenue from subsidies": "54.50%",
+    "Subsidies": "$8,506,913",
+    "Athletics revenue": "$15,617,366"
+  },
+  {
+    "Institution": "South Florida",
+    "Conference": "American Athletic Conference",
+    "% of revenue from subsidies": "44.10%",
+    "Subsidies": "$21,355,970",
+    "Athletics revenue": "$48,383,928"
+  },
+  {
+    "Institution": "Southeast Missouri State University_ Missouri",
+    "Conference": "Ohio Valley Conference",
+    "% of revenue from subsidies": "73.60%",
+    "Subsidies": "$8,220,874",
+    "Athletics revenue": "$11,173,471"
+  },
+  {
+    "Institution": "Southern Illinois University at Carbondale_ Illinois",
+    "Conference": "Missouri Valley Conference",
+    "% of revenue from subsidies": "62.50%",
+    "Subsidies": "$13,651,984",
+    "Athletics revenue": "$21,847,326"
+  },
+  {
+    "Institution": "Southern Illinois University at Edwardsville_ Illinois",
+    "Conference": "Ohio Valley Conference",
+    "% of revenue from subsidies": "79.20%",
+    "Subsidies": "$6,744,809",
+    "Athletics revenue": "$8,515,931"
+  },
+  {
+    "Institution": "Southern University_ Louisiana",
+    "Conference": "Southwestern Athletic Conference",
+    "% of revenue from subsidies": "49.90%",
+    "Subsidies": "$5,071,085",
+    "Athletics revenue": "$10,153,053"
+  },
+  {
+    "Institution": "Southern Utah University_ Utah",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "75.10%",
+    "Subsidies": "$7,961,064",
+    "Athletics revenue": "$10,598,596"
+  },
+  {
+    "Institution": "State University of New York at Stony Brook_ New York",
+    "Conference": "America East Conference",
+    "% of revenue from subsidies": "84.70%",
+    "Subsidies": "$23,298,044",
+    "Athletics revenue": "$27,504,770"
+  },
+  {
+    "Institution": "Stephen F. Austin State University_ Texas",
+    "Conference": "Southland Conference",
+    "% of revenue from subsidies": "85.10%",
+    "Subsidies": "$13,364,737",
+    "Athletics revenue": "$15,697,105"
+  },
+  {
+    "Institution": "Tennessee Technological University_ Tennessee",
+    "Conference": "Ohio Valley Conference",
+    "% of revenue from subsidies": "76.80%",
+    "Subsidies": "$11,179,898",
+    "Athletics revenue": "$14,562,733"
+  },
+  {
+    "Institution": "Texas",
+    "Conference": "Big 12 Conference",
+    "% of revenue from subsidies": "0.00%",
+    "Subsidies": "$0",
+    "Athletics revenue": "$161,035,182"
+  },
+  {
+    "Institution": "Texas A&M",
+    "Conference": "Southeastern Conference",
+    "% of revenue from subsidies": "1.00%",
+    "Subsidies": "$1,241,457",
+    "Athletics revenue": "$119,475,871"
+  },
+  {
+    "Institution": "Texas A&M University at Corpus Christi_ Texas",
+    "Conference": "Southland Conference",
+    "% of revenue from subsidies": "81.60%",
+    "Subsidies": "$8,600,266",
+    "Athletics revenue": "$10,540,420"
+  },
+  {
+    "Institution": "Texas State",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "73.20%",
+    "Subsidies": "$23,570,803",
+    "Athletics revenue": "$32,190,191"
+  },
+  {
+    "Institution": "Texas Tech",
+    "Conference": "Big 12 Conference",
+    "% of revenue from subsidies": "5.30%",
+    "Subsidies": "$4,086,756",
+    "Athletics revenue": "$76,723,413"
+  },
+  {
+    "Institution": "The Citadel_ South Carolina",
+    "Conference": "Southern Conference",
+    "% of revenue from subsidies": "65.90%",
+    "Subsidies": "$9,327,235",
+    "Athletics revenue": "$14,144,606"
+  },
+  {
+    "Institution": "Toledo",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "57.40%",
+    "Subsidies": "$12,940,709",
+    "Athletics revenue": "$22,559,175"
+  },
+  {
+    "Institution": "Towson University_ Maryland",
+    "Conference": "Colonial Athletic Association",
+    "% of revenue from subsidies": "79.80%",
+    "Subsidies": "$19,821,921",
+    "Athletics revenue": "$24,833,346"
+  },
+  {
+    "Institution": "Troy",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "72.40%",
+    "Subsidies": "$17,834,972",
+    "Athletics revenue": "$24,628,741"
+  },
+  {
+    "Institution": "UCLA",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "3.10%",
+    "Subsidies": "$2,711,272",
+    "Athletics revenue": "$86,426,780"
+  },
+  {
+    "Institution": "University at Albany, SUNY_ New York",
+    "Conference": "America East Conference",
+    "% of revenue from subsidies": "81.20%",
+    "Subsidies": "$15,438,227",
+    "Athletics revenue": "$19,020,977"
+  },
+  {
+    "Institution": "University at Buffalo_ New York",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "76.70%",
+    "Subsidies": "$23,979,061",
+    "Athletics revenue": "$31,277,980"
+  },
+  {
+    "Institution": "University of Akron_ Ohio",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "69.10%",
+    "Subsidies": "$22,654,017",
+    "Athletics revenue": "$32,774,266"
+  },
+  {
+    "Institution": "University of Arkansas at Little Rock_ Arkansas",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "64.60%",
+    "Subsidies": "$6,195,669",
+    "Athletics revenue": "$9,584,293"
+  },
+  {
+    "Institution": "University of Arkansas at Pine Bluff_ Arkansas",
+    "Conference": "Southwestern Athletic Conference",
+    "% of revenue from subsidies": "77.60%",
+    "Subsidies": "$6,037,876",
+    "Athletics revenue": "$7,785,707"
+  },
+  {
+    "Institution": "University of California at Davis_ California",
+    "Conference": "Big West Conference",
+    "% of revenue from subsidies": "80.90%",
+    "Subsidies": "$25,136,071",
+    "Athletics revenue": "$31,062,590"
+  },
+  {
+    "Institution": "University of California at Irvine_ California",
+    "Conference": "Big West Conference",
+    "% of revenue from subsidies": "79.80%",
+    "Subsidies": "$13,369,049",
+    "Athletics revenue": "$16,762,755"
+  },
+  {
+    "Institution": "University of California at Riverside_ California",
+    "Conference": "Big West Conference",
+    "% of revenue from subsidies": "89.00%",
+    "Subsidies": "$13,788,851",
+    "Athletics revenue": "$15,484,936"
+  },
+  {
+    "Institution": "University of California at Santa Barbara_ California",
+    "Conference": "Big West Conference",
+    "% of revenue from subsidies": "79.80%",
+    "Subsidies": "$12,447,088",
+    "Athletics revenue": "$15,588,782"
+  },
+  {
+    "Institution": "University of Central Arkansas_ Arkansas",
+    "Conference": "Southland Conference",
+    "% of revenue from subsidies": "74.60%",
+    "Subsidies": "$8,760,294",
+    "Athletics revenue": "$11,750,081"
+  },
+  {
+    "Institution": "University of Hawaii-Manoa_ Hawaii",
+    "Conference": "Big West Conference",
+    "% of revenue from subsidies": "43.90%",
+    "Subsidies": "$18,005,273",
+    "Athletics revenue": "$40,989,898"
+  },
+  {
+    "Institution": "University of Idaho_ Idaho",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "49.60%",
+    "Subsidies": "$9,381,453",
+    "Athletics revenue": "$18,920,916"
+  },
+  {
+    "Institution": "University of Illinois at Chicago_ Illinois",
+    "Conference": "Horizon League",
+    "% of revenue from subsidies": "58.60%",
+    "Subsidies": "$12,410,075",
+    "Athletics revenue": "$21,187,176"
+  },
+  {
+    "Institution": "University of Maine_ Maine",
+    "Conference": "America East Conference",
+    "% of revenue from subsidies": "65.80%",
+    "Subsidies": "$12,829,475",
+    "Athletics revenue": "$19,490,936"
+  },
+  {
+    "Institution": "University of Maryland-Eastern Shore_ Maryland",
+    "Conference": "Mid-Eastern Athletic Conference",
+    "% of revenue from subsidies": "84.80%",
+    "Subsidies": "$4,708,513",
+    "Athletics revenue": "$5,554,601"
+  },
+  {
+    "Institution": "University of Massachusetts at Amherst_ Massachusetts",
+    "Conference": "Atlantic 10 Conference",
+    "% of revenue from subsidies": "78.00%",
+    "Subsidies": "$26,425,129",
+    "Athletics revenue": "$33,875,918"
+  },
+  {
+    "Institution": "University of Massachusetts at Lowell_ Massachusetts",
+    "Conference": "America East Conference",
+    "% of revenue from subsidies": "79.20%",
+    "Subsidies": "$10,292,273",
+    "Athletics revenue": "$12,988,025"
+  },
+  {
+    "Institution": "University of Missouri at Kansas City_ Missouri",
+    "Conference": "Western Athletic Conference",
+    "% of revenue from subsidies": "83.60%",
+    "Subsidies": "$9,592,075",
+    "Athletics revenue": "$11,467,676"
+  },
+  {
+    "Institution": "University of Montana at Missoula_ Montana",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "41.90%",
+    "Subsidies": "$8,642,945",
+    "Athletics revenue": "$20,609,017"
+  },
+  {
+    "Institution": "University of Nebraska at Omaha_ Nebraska",
+    "Conference": "The Summit League",
+    "% of revenue from subsidies": "67.50%",
+    "Subsidies": "$9,243,641",
+    "Athletics revenue": "$13,693,874"
+  },
+  {
+    "Institution": "University of Nevada at Las Vegas_ Nevada",
+    "Conference": "Mountain West Conference",
+    "% of revenue from subsidies": "44.90%",
+    "Subsidies": "$19,783,274",
+    "Athletics revenue": "$44,057,560"
+  },
+  {
+    "Institution": "University of Nevada at Reno_ Nevada",
+    "Conference": "Mountain West Conference",
+    "% of revenue from subsidies": "39.10%",
+    "Subsidies": "$10,685,143",
+    "Athletics revenue": "$27,324,338"
+  },
+  {
+    "Institution": "University of New Hampshire_ New Hampshire",
+    "Conference": "America East Conference",
+    "% of revenue from subsidies": "69.50%",
+    "Subsidies": "$18,628,939",
+    "Athletics revenue": "$26,799,800"
+  },
+  {
+    "Institution": "University of New Mexico_ New Mexico",
+    "Conference": "Mountain West Conference",
+    "% of revenue from subsidies": "36.50%",
+    "Subsidies": "$17,239,472",
+    "Athletics revenue": "$47,199,769"
+  },
+  {
+    "Institution": "University of New Orleans_ Louisiana",
+    "Conference": "Southland Conference",
+    "% of revenue from subsidies": "33.00%",
+    "Subsidies": "$1,725,273",
+    "Athletics revenue": "$5,224,996"
+  },
+  {
+    "Institution": "University of North Carolina at Asheville_ North Carolina",
+    "Conference": "Big South Conference",
+    "% of revenue from subsidies": "72.90%",
+    "Subsidies": "$4,623,708",
+    "Athletics revenue": "$6,340,084"
+  },
+  {
+    "Institution": "University of North Carolina at Charlotte_ North Carolina",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "69.10%",
+    "Subsidies": "$20,459,306",
+    "Athletics revenue": "$29,591,208"
+  },
+  {
+    "Institution": "University of North Carolina at Greensboro_ North Carolina",
+    "Conference": "Southern Conference",
+    "% of revenue from subsidies": "81.00%",
+    "Subsidies": "$11,860,371",
+    "Athletics revenue": "$14,646,547"
+  },
+  {
+    "Institution": "University of North Carolina at Wilmington_ North Carolina",
+    "Conference": "Colonial Athletic Association",
+    "% of revenue from subsidies": "71.70%",
+    "Subsidies": "$8,793,355",
+    "Athletics revenue": "$12,268,374"
+  },
+  {
+    "Institution": "University of North Dakota_ North Dakota",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "56.10%",
+    "Subsidies": "$13,357,249",
+    "Athletics revenue": "$23,815,870"
+  },
+  {
+    "Institution": "University of North Florida_ Florida",
+    "Conference": "Atlantic Sun Conference",
+    "% of revenue from subsidies": "75.70%",
+    "Subsidies": "$7,916,145",
+    "Athletics revenue": "$10,453,436"
+  },
+  {
+    "Institution": "University of Northern Colorado_ Colorado",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "72.60%",
+    "Subsidies": "$9,688,815",
+    "Athletics revenue": "$13,339,533"
+  },
+  {
+    "Institution": "University of Northern Iowa_ Iowa",
+    "Conference": "Missouri Valley Conference",
+    "% of revenue from subsidies": "49.90%",
+    "Subsidies": "$8,464,481",
+    "Athletics revenue": "$16,966,524"
+  },
+  {
+    "Institution": "University of Rhode Island_ Rhode Island",
+    "Conference": "Atlantic 10 Conference",
+    "% of revenue from subsidies": "78.60%",
+    "Subsidies": "$20,044,922",
+    "Athletics revenue": "$25,502,270"
+  },
+  {
+    "Institution": "University of South Alabama_ Alabama",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "77.40%",
+    "Subsidies": "$17,883,165",
+    "Athletics revenue": "$23,091,728"
+  },
+  {
+    "Institution": "University of South Carolina-Upstate_ South Carolina",
+    "Conference": "Atlantic Sun Conference",
+    "% of revenue from subsidies": "81.70%",
+    "Subsidies": "$5,834,118",
+    "Athletics revenue": "$7,138,589"
+  },
+  {
+    "Institution": "University of South Dakota_ South Dakota",
+    "Conference": "The Summit League",
+    "% of revenue from subsidies": "71.90%",
+    "Subsidies": "$10,697,633",
+    "Athletics revenue": "$14,879,307"
+  },
+  {
+    "Institution": "University of Southern Mississippi_ Mississippi",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "40.00%",
+    "Subsidies": "$9,413,473",
+    "Athletics revenue": "$23,536,254"
+  },
+  {
+    "Institution": "University of Tennessee at Chattanooga_ Tennessee",
+    "Conference": "Southern Conference",
+    "% of revenue from subsidies": "72.70%",
+    "Subsidies": "$11,667,988",
+    "Athletics revenue": "$16,046,057"
+  },
+  {
+    "Institution": "University of Tennessee at Martin_ Tennessee",
+    "Conference": "Ohio Valley Conference",
+    "% of revenue from subsidies": "74.50%",
+    "Subsidies": "$7,234,518",
+    "Athletics revenue": "$9,709,378"
+  },
+  {
+    "Institution": "University of Texas at Arlington_ Texas",
+    "Conference": "Sun Belt Conference",
+    "% of revenue from subsidies": "86.20%",
+    "Subsidies": "$10,152,846",
+    "Athletics revenue": "$11,781,630"
+  },
+  {
+    "Institution": "University of Texas at El Paso_ Texas",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "52.40%",
+    "Subsidies": "$15,016,788",
+    "Athletics revenue": "$28,645,661"
+  },
+  {
+    "Institution": "University of Vermont_ Vermont",
+    "Conference": "America East Conference",
+    "% of revenue from subsidies": "73.00%",
+    "Subsidies": "$13,392,986",
+    "Athletics revenue": "$18,344,402"
+  },
+  {
+    "Institution": "University of Wisconsin at Green Bay_ Wisconsin",
+    "Conference": "Horizon League",
+    "% of revenue from subsidies": "56.60%",
+    "Subsidies": "$4,997,939",
+    "Athletics revenue": "$8,823,409"
+  },
+  {
+    "Institution": "Utah",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "17.50%",
+    "Subsidies": "$9,862,106",
+    "Athletics revenue": "$56,470,310"
+  },
+  {
+    "Institution": "Utah State",
+    "Conference": "Mountain West Conference",
+    "% of revenue from subsidies": "56.40%",
+    "Subsidies": "$14,179,545",
+    "Athletics revenue": "$25,152,919"
+  },
+  {
+    "Institution": "Utah Valley University_ Utah",
+    "Conference": "Western Athletic Conference",
+    "% of revenue from subsidies": "85.80%",
+    "Subsidies": "$9,601,419",
+    "Athletics revenue": "$11,191,569"
+  },
+  {
+    "Institution": "Virginia",
+    "Conference": "Atlantic Coast Conference",
+    "% of revenue from subsidies": "15.80%",
+    "Subsidies": "$13,235,814",
+    "Athletics revenue": "$83,697,971"
+  },
+  {
+    "Institution": "Virginia Commonwealth University_ Virginia",
+    "Conference": "Atlantic 10 Conference",
+    "% of revenue from subsidies": "68.10%",
+    "Subsidies": "$19,035,500",
+    "Athletics revenue": "$27,957,707"
+  },
+  {
+    "Institution": "Virginia Tech",
+    "Conference": "Atlantic Coast Conference",
+    "% of revenue from subsidies": "11.10%",
+    "Subsidies": "$8,110,828",
+    "Athletics revenue": "$73,065,186"
+  },
+  {
+    "Institution": "Washington",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "3.50%",
+    "Subsidies": "$3,549,679",
+    "Athletics revenue": "$100,275,187"
+  },
+  {
+    "Institution": "Washington State",
+    "Conference": "Pacific-12 Conference",
+    "% of revenue from subsidies": "18.60%",
+    "Subsidies": "$10,104,638",
+    "Athletics revenue": "$54,426,818"
+  },
+  {
+    "Institution": "Weber State University_ Utah",
+    "Conference": "Big Sky Conference",
+    "% of revenue from subsidies": "66.40%",
+    "Subsidies": "$8,883,487",
+    "Athletics revenue": "$13,377,335"
+  },
+  {
+    "Institution": "Western Carolina University_ North Carolina",
+    "Conference": "Southern Conference",
+    "% of revenue from subsidies": "66.30%",
+    "Subsidies": "$7,581,603",
+    "Athletics revenue": "$11,436,428"
+  },
+  {
+    "Institution": "Western Illinois University_ Illinois",
+    "Conference": "The Summit League",
+    "% of revenue from subsidies": "75.40%",
+    "Subsidies": "$9,118,895",
+    "Athletics revenue": "$12,098,077"
+  },
+  {
+    "Institution": "Western Kentucky University_ Kentucky",
+    "Conference": "Conference USA",
+    "% of revenue from subsidies": "56.90%",
+    "Subsidies": "$15,758,435",
+    "Athletics revenue": "$27,716,031"
+  },
+  {
+    "Institution": "Western Michigan",
+    "Conference": "Mid-American Conference",
+    "% of revenue from subsidies": "69.20%",
+    "Subsidies": "$20,027,951",
+    "Athletics revenue": "$28,927,072"
+  },
+  {
+    "Institution": "Wichita State University_ Kansas",
+    "Conference": "Missouri Valley Conference",
+    "% of revenue from subsidies": "30.70%",
+    "Subsidies": "$7,514,236",
+    "Athletics revenue": "$24,481,122"
+  },
+  {
+    "Institution": "Winthrop University_ South Carolina",
+    "Conference": "Big South Conference",
+    "% of revenue from subsidies": "85.90%",
+    "Subsidies": "$10,775,669",
+    "Athletics revenue": "$12,549,290"
+  },
+  {
+    "Institution": "Wisconsin",
+    "Conference": "Big Ten Conference",
+    "% of revenue from subsidies": "6.30%",
+    "Subsidies": "$8,073,360",
+    "Athletics revenue": "$127,910,918"
+  },
+  {
+    "Institution": "Wright State University_ Ohio",
+    "Conference": "Horizon League",
+    "% of revenue from subsidies": "78.60%",
+    "Subsidies": "$8,417,787",
+    "Athletics revenue": "$10,710,593"
+  },
+  {
+    "Institution": "Wyoming",
+    "Conference": "Mountain West Conference",
+    "% of revenue from subsidies": "49.80%",
+    "Subsidies": "$16,097,463",
+    "Athletics revenue": "$32,336,367"
+  },
+  {
+    "Institution": "Youngstown State University_ Ohio",
+    "Conference": "Horizon League",
+    "% of revenue from subsidies": "70.10%",
+    "Subsidies": "$10,085,921",
+    "Athletics revenue": "$14,385,066"
+  }
+]

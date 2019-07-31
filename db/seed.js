@@ -1,5 +1,7 @@
-const rawSchoolData = require('./subsidies.json')
-
+const rawSchoolData = require('./schoolsFinal.json')
+const School = require('./models/school')
+const HeadCoach = require('./models/headCoach')
+const AsstCoach = require('./models/asstCoach')
 
 // cleaning data for seeding
 const school = rawSchoolData.map(data =>{
@@ -21,4 +23,5 @@ const school = rawSchoolData.map(data =>{
     object.asstCoachPay = null 
     return object    
 })
-console.log(school)
+
+// School.deleteMany({}).then(d => { School.create(school)})

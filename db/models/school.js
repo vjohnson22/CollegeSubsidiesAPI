@@ -3,10 +3,10 @@ const Schema = mongoose.Schema
 
 
 const SchoolSchema = new Schema( {
-    Institution: String,
-    Conference: String,
+    institution: String,
+    conference: String,
     percentFromSubsidies: Number,
-    Subsidies: Number,
+    subsidies: Number,
     athleticsRevenue: Number,
     headCoach: {
         type: Schema.Types.ObjectId,
