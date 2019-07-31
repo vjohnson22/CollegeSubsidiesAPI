@@ -1,14 +1,13 @@
 const mongoose = require('../connection')
 const Schema = mongoose.Schema
 
-const HeadCoachSchema = new Schema ({
+const AsstCoachSchema = new Schema ({
     rank: Number,
     school: String,
     coach: String,
     totalPay: Number,
-    AsstPayTotal: Number,
-    schoolBuyout: Number
+    AsstPayTotal: Number
 })
 
-module.exports = mongoose.model('HeadCoach', HeadCoachSchema)
+module.exports = mongoose.model('AsstCoach', AsstCoachSchema)
 
