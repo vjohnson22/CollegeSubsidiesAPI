@@ -3,9 +3,9 @@ const router = express.Router()
 const asstCoachController = require('../controllers/asstCoach')
 
 router.get('/', asstCoachController.index )
-router.get('/:name', asstCoachController.show)
+router.get('/:coach', asstCoachController.show)
 router.post('/', asstCoachController.create )
-router.patch('/name', asstCoachController.update )
-router.delete('/name', asstCoachController.destroy )
+router.patch('/:coach', asstCoachController.update )
+router.delete('/:coach', asstCoachController.destroy )
 
 module.exports = router
