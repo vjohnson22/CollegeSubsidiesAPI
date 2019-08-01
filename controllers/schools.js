@@ -7,6 +7,9 @@ module.exports = {
         })
     },    
     show: (req,res) => {
+        School.find({institution: req.params.institution}).then(school => {
+            res.json(school)
+        })
 
     },
     create: (req,res) => {
