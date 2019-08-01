@@ -5,7 +5,7 @@ const schoolController = require('../controllers/schools')
 router.get('/', schoolController.index )
 router.get('/:institution', schoolController.show)
 router.post('/', schoolController.create )
-router.patch('/name', schoolController.update )
-router.delete('/name', schoolController.destroy )
+router.patch('/:institution', schoolController.update )
+router.delete('/:institution', schoolController.destroy )
 
 module.exports = router

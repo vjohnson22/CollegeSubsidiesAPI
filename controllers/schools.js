@@ -19,7 +19,9 @@ module.exports = {
 
     },
     update: (req,res) => {
-
+        School.findOneAndUpdate({institution: req.params.institution},req.body).then(school => {
+            res.json(school)
+        })
     },
     destroy: (req,res) => {
 
