@@ -13,6 +13,9 @@ module.exports = {
 
     },
     create: (req,res) => {
+        School.create(req.body).then( school => {
+            res.json(school)
+        })
 
     },
     update: (req,res) => {
