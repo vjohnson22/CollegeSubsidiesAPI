@@ -24,7 +24,10 @@ module.exports = {
         })
     },
     destroy: (req,res) => {
+        School.findOneAndDelete({institution:req.params.institution}).then(school => {
+            res.send(`${req.params.institution} deleted`)
+        } )
 
-    },
+    }
 }
 
