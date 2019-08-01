@@ -2,7 +2,7 @@
 const rawSchoolData = require('./schoolsFinal.json')
 const rawHeadCoachData = require('./headCoach.json')
 const rawAsstCoachData = require('./asstCoach.json')
-console.log(rawHeadCoachData)
+
 
 //models
 const School = require('./models/school')
@@ -31,7 +31,7 @@ const school = rawSchoolData.map(data =>{
 // cleaning head coach data for seeding
 const headCoach = rawHeadCoachData.map(data =>{
     let object = {}
-    
+    object.coach = data.COACH
     object.rank = data.RK
     object.school = data.SCHOOL
     object.totalPay = data['TOTAL PAY']
@@ -43,9 +43,9 @@ const headCoach = rawHeadCoachData.map(data =>{
 const asstCoach = rawAsstCoachData.map(data =>{
     let object = {}
     
+    object.coach = data.COACH
     object.rank = data.RK
     object.school = data.SCHOOL
-    object.coach = data.COACH
     object.totalPay = data['TOTAL PAY']
     object.asstPayTotal = data['ASST PAY TOTAL']
     return object    
