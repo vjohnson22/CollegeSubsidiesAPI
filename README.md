@@ -11,13 +11,13 @@ To use this API, go to https://college-football-subs.herokuapp.com/schools
 In order to use the data, there are 3 endpoints: /schools, /headcoach, /asstcoach, which allow you to query by schools, headcoaches, assistant coaches respectively.
 
 Each endpoint has full CRUD, so you can use the following requests:
-
-GET: '/' to get all schools, headcoaches, or assitant coaches 
-GET: '/:name' to get a specific school, head coach, or assitant coach
-POST: '/' with a request with the key values in the body to create a new entry
-PATCH: '/:name' with the changed key value pairing in the request body to update a record
-DELETE: '/:name' to delete a record
-
+```
+*GET: '/' to get all schools, headcoaches, or assitant coaches 
+*GET: '/:name' to get a specific school, head coach, or assitant coach
+*POST: '/' with a request with the key values in the body to create a new entry
+*PATCH: '/:name' with the changed key value pairing in the request body to *update a record
+*DELETE: '/:name' to delete a record
+```
 
 ## Built With
 
