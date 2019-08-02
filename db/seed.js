@@ -63,3 +63,5 @@ HeadCoach.deleteMany({}).then(d => {
 AsstCoach.deleteMany({}).then(d => { 
     AsstCoach.create(asstCoach)
 })
+
+module.exports = school

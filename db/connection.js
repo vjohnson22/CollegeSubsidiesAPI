@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb://localhost/colleges", {useNewUrlParser: true});
+mongoose.connect("mongodb://localhost/subsidies", {useNewUrlParser: true});
 
 mongoose.Promise = Promise;
 
