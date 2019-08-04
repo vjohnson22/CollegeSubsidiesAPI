@@ -60,9 +60,12 @@ School.deleteMany({})
                         headCoach.forEach( head => {
                             HeadCoach.create(head).then( hCoach => {
                                 let id = hCoach._id
-                                School.findOneAndUpdate({institution: hCoach.school},{$set: {headCoach:id}},{new:true}).then(update => update.save())
+                                School.findOneAndUpdate({institution: hCoach.school},{$set: {headCoach:id}},{new:true}).then(update => {
+                                    if(update != null){   
+                                    update.save()
+                                    }
                                 
-                                
+                                })
                             })
                         })
                         
@@ -74,12 +77,15 @@ School.deleteMany({})
                                 asstCoach.forEach( asst => {
                                     AsstCoach.create(asst).then( aCoach => {
                                         let id = aCoach._id
-                                        console.log(id)
+
                                         School.findOneAndUpdate({institution: aCoach.school},{$push: {asstCoachs:id}},{new:true}).then( c => { 
+                                            if(c != null){
                                             c.save()
-                                            console.log(c)
+                                            }
                                         })
-                                        
+
+                                        })
+                                         
                                     })
                                 })
                 
@@ -87,7 +93,7 @@ School.deleteMany({})
                 })
             })
           
-    })
+    
       
 
 
