@@ -1,4 +1,5 @@
 const AsstCoach = require('../db/models/AsstCoach')
+const School = require('../db/models/school')
 
 module.exports = {
     index: (req,res) => {
@@ -14,9 +15,13 @@ module.exports = {
     },
     create: (req,res) => {
         AsstCoach.create(req.body).then( coach => {
-            res.json(coach)
+            id = coach._id
+            School.findOneAndUpdate({institution: coach.school},{$push:{asstCoachs: id}}, {new:true})
+            .then(updated => {
+                res.json(updated)
+            })
+            
         })
-
     },
     update: (req,res) => {
         AsstCoach.findOneAndUpdate({coach: req.params.coach},req.body).then(coach => {
