@@ -51,17 +51,39 @@ const asstCoach = rawAsstCoachData.map(data =>{
     return object    
 })
 
+School.deleteMany({})
+    .then(d => {
+        School.create(school)
+            .then(schoolList => {
+                HeadCoach.deleteMany({})
+                    .then(v => {
+                        headCoach.forEach( head => {
+                            HeadCoach.create(head).then( hCoach => {
+                                let id = hCoach._id
+                                School.findOneAndUpdate({institution: hCoach.school},{$set: {headCoach:id}},{new:true})
+                                .then( c => {
+                                    console.log(c)
+                                })
+                                })
 
-School.deleteMany({}).then(d => { 
-    School.create(school)
-})
+                            })
+                        })
+                    })
+            })
 
-HeadCoach.deleteMany({}).then(d => { 
-    HeadCoach.create(headCoach)
-})
 
-AsstCoach.deleteMany({}).then(d => { 
-    AsstCoach.create(asstCoach)
-})
 
-module.exports = school
+
+// School.deleteMany({}).then(d => { 
+//     School.create(school)
+// })
+
+// HeadCoach.deleteMany({}).then(d => { 
+//     HeadCoach.create(headCoach)
+// })
+
+// AsstCoach.deleteMany({}).then(d => { 
+//     AsstCoach.create(asstCoach)
+// })
+
+// module.exports = school
