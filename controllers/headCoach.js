@@ -15,7 +15,7 @@ module.exports = {
     },
     create: (req,res) => {
         HeadCoach.create(req.body).then( coach => {
-            id = coach._id
+            let id = coach._id
             School.findOneAndUpdate({institution: coach.school},{$set:{headCoach: id}}, {new:true})
             .then(updated => {
                 res.json(updated)
@@ -30,9 +30,16 @@ module.exports = {
         })
     },
     destroy: (req,res) => {
-        HeadCoach.findOneAndDelete({coach:req.params.coach}).then(coach => {
-            res.send(`${req.params.coach} deleted`)
-        } )
+        HeadCoach.findOne({coach:req.params.coach}).then(coach => {
+            school = coach.school
+            HeadCoach.findOneAndDelete({coach:req.params.coach}).then(coach => {
+                School.findOneAndUpdate({institution: school},{$set: {headCoach: null }},{new:true})
+                .then(updated => {
+                    res.send(updated)
+                })
+            } )
+        })
+        
 
     }
 }

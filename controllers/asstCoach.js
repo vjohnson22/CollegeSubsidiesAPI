@@ -29,9 +29,16 @@ module.exports = {
         })
     },
     destroy: (req,res) => {
-        AsstCoach.findOneAndDelete({coach:req.params.coach}).then(coach => {
-            res.send(`${req.params.coach} deleted`)
-        } )
-
+        AsstCoach.findOne({coach:req.params.coach}).then(coach => {
+            school = coach.school
+            id = coach._id
+            AsstCoach.findOneAndDelete({coach:req.params.coach}).then(coach => {
+                School.findOneAndUpdate({institution: school},{$pull: {asstCoachs: id }},{new:true})
+                .then(updated => {
+                    res.send(updated)
+                })
+            } )
+        })
+        
     }
 }
