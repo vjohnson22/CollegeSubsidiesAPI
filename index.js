@@ -6,6 +6,7 @@ const parser = require('body-parser')
 app.use(parser.json())
 
 // add routes below
+app.use('/', require('./routes/redirect'))
 app.use('/schools',require('./routes/schools'))
 app.use('/headcoach',require('./routes/headCoach'))
 app.use('/asstcoach', require('./routes/asstCoach'))

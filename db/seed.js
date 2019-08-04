@@ -92,17 +92,3 @@ School.deleteMany({})
 
 
 
-
-// School.deleteMany({}).then(d => { 
-//     School.create(school)
-// })
-
-// HeadCoach.deleteMany({}).then(d => { 
-//     HeadCoach.create(headCoach)
-// })
-
-// AsstCoach.deleteMany({}).then(d => { 
-//     AsstCoach.create(asstCoach)
-// })
-
-// module.exports = school
