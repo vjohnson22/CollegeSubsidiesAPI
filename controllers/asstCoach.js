@@ -1,4 +1,4 @@
-const AsstCoach = require('../db/models/AsstCoach')
+const AsstCoach = require('../db/models/asstCoach')
 const School = require('../db/models/school')
 
 module.exports = {
